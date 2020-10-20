@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Volumes\\Work\\ReactNative\\SenzPay\\SenzPay\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Volumes\\Work\\ReactNative\\SenzPay\\SenzPay\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ReactNatvie\\SenzPay\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\ReactNatvie\\SenzPay\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
